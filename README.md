@@ -6,9 +6,8 @@ Trabalho realizado para a discliplina de Estrutura de Dados da Faculdade de Tecn
 - [Dados acerca dos Docentes](https://github.com/CauaneAndrade/analise-dados-inep/blob/master/Dados_de_docentes.ipynb)
 - [Dados acerca dos Discentes](https://github.com/CauaneAndrade/analise-dados-inep/blob/master/Dados_de_discentes.ipynb)
 
-## Dicionário de variáveis utilizadas nos códigos fontes
-'''
-# Dicionário de dados de docentes
+# Dicionário de variáveis utilizadas nos códigos fontes
+## Dicionário de dados de docentes
 – Categoria Administrativa
 A) Pública Federal: DM_DOCENTE.TP_CATEGORIA_ADMINISTRATIVA = 1 <br>
 B) Pública Estadual: DM_DOCENTE.TP_CATEGORIA_ADMINISTRATIVA = 2 <br>
@@ -50,4 +49,4 @@ D) Amarela: DM_DOCENTE.TP_COR_RACA= 4 <br>
 E) Indígena: DM_DOCENTE.TP_COR_RACA= 5 <br>
 F) Não dispõe da informação: DM_DOCENTE.TP_COR_RACA= 9 <br>
 G) Docente não quis declarar cor/raça: DM_DOCENTE.TP_COR_RACA= 0
-'''
+
