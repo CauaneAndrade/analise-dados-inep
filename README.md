@@ -1,7 +1,9 @@
-# Análise dados Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)
+# Análise dados Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), baseando-se em materiais de 2018
 
 Análise de dados de docentes e discentes de ensino superior brasileiro quanto à raça/cor, gênero e nível acadêmico.
-Trabalho realizado para a discliplina de Estrutura de Dados da Faculdade de Tecnologia de São José dos Campos, sob supervisão do [Professor Fernando Massanori](https://github.com/fmasanori)
+Trabalho realizado para a discliplina de Estrutura de Dados da Faculdade de Tecnologia de São José dos Campos, sob supervisão do [Professor Fernando Massanori](https://github.com/fmasanori).
+
+Os dados utilizados para análisa foram retirados do site do INEP.
 
 - [Dados acerca dos Docentes](https://github.com/CauaneAndrade/analise-dados-inep/blob/master/Dados_de_docentes.ipynb)
 - [Dados acerca dos Discentes](https://github.com/CauaneAndrade/analise-dados-inep/blob/master/Dados_de_discentes.ipynb)
